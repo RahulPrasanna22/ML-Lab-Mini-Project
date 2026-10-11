@@ -1,7 +1,0 @@
-tensorflow>=2.12; platform_system != "Windows"
-tensorflow-intel>=2.12,<2.19; platform_system == "Windows"
-numpy
-pandas>=1.5
-scikit-learn
-matplotlib
-streamlit>=1.35
