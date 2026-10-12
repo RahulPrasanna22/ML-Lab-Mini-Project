@@ -66,4 +66,4 @@ The original script can take several minutes, depending on the computer. The Str
 - `report/streamflow_project_report.pdf`: project report with results and plots
 - `requirements.txt`: Python dependencies
 
-The ZIP does not contain a virtual environment; create a fresh `.venv` after extraction using the steps above.
+The ZIP does not contain a virtual environment; create a fresh `.venv` after extraction using the steps above. Currently, future flow prediction functionality isnt present, but works with back tracking.
